@@ -2,7 +2,7 @@
 function generateMarkdown(data) {
 return `# ${data.title}
 
-${github}
+${data.github}
 
 ## Description
 
@@ -15,6 +15,23 @@ To install do this...
 \`\`\`
 ${data.installation}
 \`\`\`
+
+To test do this...
+\`\`\`
+${data.test}
+\`\`\`
+
+How to Use:
+\`\`\`
+${data.usage}
+\`\`\`
+
+How can you contribute?
+\`\`\`
+${data.contributing}
+\`\`\`
+
+
 
 ## License
 ![GitHub license](https://img.shields.io/badge/license-${data.license}-blue.svg)
