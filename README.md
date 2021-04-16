@@ -4,7 +4,7 @@ AmandaNguyenn
 
 ## Description
 
-Create a command-line application that dynamically generates a professional ReadMe.md file from a user's input using the Inquirer package.
+Create a command-line application that dramatically generates a professional readme.md file from the user's input using the inquirer package.
 
 ## Installation
 
@@ -21,12 +21,12 @@ npm test
 
 How to Use:
 ```
-Right click on file, click on 'open in integrated terminal', the type on the commands.
+Right click on the js file, click on 'open in integrated terminal, type in the commands.
 ```
 
 How can you contribute?
 ```
-Code commits, pull requests, comments, and project kanban boards.
+Code commits, pull requests, comments, kanban boards.
 ```
 
 
